@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg");
+}
+.navbar{
+    background-color: rgb(42, 165, 108);
+    border-radius: 30px;
+
+}
+.navbar{
+    overflow:auto;
+}
+.navbar li{
+    float:left;
+    list-style: none;
+    padding:3px 3px;
+    margin: 13px 20px;
+}
+.navbar li a{
+    padding:3px 3px;
+    text-decoration: none;
+    color: aqua;
+}
+.search{
+    float:right;
+    color:white;
+    padding: 12px 75px;
+}
+.navbar input{
+    border:2px solid black;
+    border-radius: 14px;
+    padding: 3px 14px;
+}
+.navbar li a:hover{
+    color:yellowgreen;
+}
+body{
+    background: url('../img1.jpg');
+}
